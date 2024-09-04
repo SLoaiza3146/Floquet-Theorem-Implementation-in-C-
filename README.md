@@ -16,7 +16,3 @@ The codebase is under continuous review for enhancements:
 
 ## Getting Started
 To get started with this implementation, clone the repository and review the code comments for guidance on setup and execution.
-
-```bash
-git clone https://github.com/yourusername/floquet-theorem-cpp.git
-cd floquet-theorem-cpp
