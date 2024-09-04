@@ -1,7 +1,7 @@
-# Floquet Theorem Implementation in C++
+# Floquet Theorem Implementation in C++ and python
 
 ## Overview
-This repository contains the numerical implementation of the Floquet theorem, specifically using the extended Hilbert space method. The implementation focuses on a system modeled by the spin-1 Bose-Hubbard Hamiltonian for a single particle. However, the approach can be adapted to other quantum systems as well.
+This repository contains the numerical implementation of the Floquet theorem, specifically using the extended Hilbert space method for c++ and a qutip implementation in python. The implementation focuses on a system modeled by the spin-1 Bose-Hubbard Hamiltonian for a single particle for the c++ code and the Jaynes-Cumming Model for python code. However, the approach can be adapted to other quantum systems as well.
 
 ## Background
 The techniques implemented here were developed as part of an undergraduate thesis in Physics. They are designed to explore and solve the dynamics of quantum systems under periodic driving, leveraging the extended Hilbert space to manage time-dependent Hamiltonians effectively.
