@@ -368,9 +368,7 @@ int main ()
   */
 
   //state0(5)=1/sqrt(4);
-  state0(1)=(iu+1)/sqrt(6);
-  state0(2)=-(iu-1)/sqrt(6);
-  state0(3)=-iu/sqrt(3);
+  state0(1)=1;
   
   cout<< "\n" << endl; 
   cout<< "Estado inicial: " << state0 << "\n"<< endl;
